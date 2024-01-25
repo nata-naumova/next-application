@@ -1,4 +1,4 @@
 # NEXTJS
 
 ## Анимированное приложение
-![Превью](demo.png)
+![Превью](https://github.com/nata-naumova/next-application/blob/master/public/demo.PNG)
